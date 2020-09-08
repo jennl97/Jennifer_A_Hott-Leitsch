@@ -15,5 +15,7 @@
 <img src="https://image.flaticon.com/icons/svg/174/174881.svg" width = "36px" height = "36px" />
 </span>
 <h2>Stats</h2>
+<span style="display: inline">
 <img src="https://github-readme-stats.vercel.app/api?username=jennl97&show_icons=true&theme=dracula" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennl97&layout=compact" />
+</span>
