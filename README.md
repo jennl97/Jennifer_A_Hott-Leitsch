@@ -12,6 +12,7 @@
 <img src="https://camo.githubusercontent.com/4ac8ae14f898a23ab16ed36a8f7940252824bae1/68747470733a2f2f62747769636f64652e636f6d2f7374617469632f6d656469612f72656475785f69636f6e2e38353737323634372e737667" width = "36px" height = "36px" />
 <img src="https://camo.githubusercontent.com/321f8404972ee740f4157100f4b7c28ead28c73f/68747470733a2f2f62747769636f64652e636f6d2f7374617469632f6d656469612f6e6f64652e6a735f69636f6e2e62333337613266622e737667" width = "36px" height = "36px" />
 <img src="https://camo.githubusercontent.com/c602e90e075b6c17a1eef61f61a952ccff5e9d75/68747470733a2f2f62747769636f64652e636f6d2f7374617469632f6d656469612f707974686f6e5f69636f6e2e61303239656565622e737667" />
+<img src="https://image.flaticon.com/icons/svg/174/174881.svg" width = "36px" height = "36px" />
 </span>
 <h2>Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jennl97&show_icons=true&theme=dracula" />
