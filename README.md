@@ -1,6 +1,15 @@
 <h2>About Me</h2>
 <b>Hello World! I am Jennifer (Jenn) Hott-Leitsch, Full Stack Developer located in Rockford, Illinois.</b> 
+<p>Since the advent of the World Wide Web, I have had in interest in software and web development. The idea that computers could not only educate us, but connect us and remove borders from the world was thrilling. It was something I knew I wanted to be a part of, I just did not know how. Despite my career being in healthcare, I always dabbled with HTML, CSS and JavaScript. In the early days of MySpace(raise your hand if you remember that!) and WordPress, I was there. Those platforms began my journey to a career in technology.</p>
+<p>In 2015, I left the healthcare field, and enrolled in courses at my local community college, graduating in 2017 with a double Associate of Applied Sciences in Web Development and Digital Media. I quickly found work as a web developer on the Wordpress platform, however, two years into my career I found myself bored. I wanted to build from the ground up. I wanted to understand backend development. I wanted to understand databases. I wanted more. In 2019, I enrolled in the Full Stack Web Development and Computer Science accelerated program at Lambda School.</p> 
 
+<h2>My Coding Philosophies</h2>
+<ul>
+  <li><b>NEVER</b> stop learning.</li>
+  <li>Always ask questions.</li>
+  <li>Make it fun.</li>
+  </ul>
+  
 <h2>Technologies</h2>
 <span style="display: inline">
 <img src="https://camo.githubusercontent.com/14f179d5c7926186384280c9dc44b572b7f394b6/68747470733a2f2f62747769636f64652e636f6d2f7374617469632f6d656469612f68746d6c5f69636f6e2e30303563646333642e737667"/>
