@@ -25,7 +25,7 @@
 </span>
 
 <h2>Connect With Me</h2>
-<a href="https://www.linkedin.com/in/jennifer-hott-leitsch/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jennifer-hott-leitsch/" target="_blank" rel="noopener">LinkedIn</a>
 
 <h2>Stats</h2>
 <span style="display: inline">
